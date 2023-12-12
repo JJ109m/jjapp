@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'manrope';
+    src: url('../../../public/backend/fonts/Manrope/Manrope-Regular.woff') format('manrope');
+}
+body{
+    background: blue;
+    font-family: manrope;
+}
